@@ -49,6 +49,7 @@
 
     main{
         padding: 0 10px;
+        margin-bottom: 80px;
     }
 
     .quick-list-feature {
@@ -140,6 +141,10 @@
 
 
     /* footer */
+
+    footer{
+        padding: 0 10px;
+    }
 
     .footer-description {
         font-size: 14px;

@@ -124,6 +124,15 @@
 .sponsors-container img{
     width: 80px;
 }
+
+
+/* footer */
+
+
+.footer-description {
+   font-size: 16px;
+   padding: 20px;
+}
  
 
 }

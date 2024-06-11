@@ -333,12 +333,30 @@ main {
 
 }
 
-.sponsors-container{
+.sponsors-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.sponsors-container img{
+.sponsors-container img {
     width: 120px;
+}
+
+/* footer */
+
+footer {
+    margin-bottom: 100px;
+    padding: 0 20px;
+}
+
+.footer-description {
+    max-width: 1280px;
+    margin: 0 auto;
+    border-radius: 8px;
+    background: #FFF4E7;
+    text-align: center;
+    padding: 40px;
+    color: #424242;
+    font-size: 20px;
 }

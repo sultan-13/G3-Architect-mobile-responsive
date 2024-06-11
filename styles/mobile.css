@@ -1,0 +1,145 @@
+@media screen and (max-width : 576px) {
+
+    .header {
+        padding: 30px 10px;
+    }
+
+    /* navigation */
+    
+    .navigation{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .nav-title{
+        font-size: 25px;
+    }
+
+    .nav-item-container ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* banner */
+
+    .banner-container {
+        margin-top: 50px;
+    }
+
+    .banner-title{
+        font-size: 25px;
+    }
+
+    .banner-description {
+        font-size: 16px;
+    
+    }
+
+    .line-break{
+        display: none;
+    }
+
+
+    .btn-primary{
+        padding: 12px;
+        font-size: 18px;
+    }
+
+    /* quick list feature */
+
+    main{
+        padding: 0 10px;
+    }
+
+    .quick-list-feature {
+        flex-direction: column;
+        padding: 0 20px;
+    }
+
+    .feature-img-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    
+    .feature-title {
+        font-size: 30px;
+    }
+
+    /* enjoy features */
+
+    .enjoy-features {
+       flex-direction: column;
+       margin-top: 50px;
+       gap: 70px;
+    }
+
+    .feature-info {
+        padding-top: 0;
+    }
+
+    .enjoy-feature-title {
+        font-size: 30px;
+        padding-left: 20px;
+    }
+
+    .box {
+        padding: 15px;
+    }
+
+    .feature-img {
+        position: static;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .advertisement {
+        width: 200px;
+        padding: 30px;
+        position: static;
+        margin: 0 auto;
+    }
+
+    .time {
+        font-size: 30px;
+    }
+    
+    .experience {
+        font-size: 16px;
+    }
+
+    /* some facts */
+
+    .some-facts{
+        padding-top: 70px;
+        text-align: center;
+    }
+
+    .facts-description {
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+
+    .facts-container {
+
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    
+    }
+
+    /* our-sponsor */
+
+    .our-sponsor{
+        padding-top: 70px;
+    }
+
+    .sponsors-container{
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    
+    
+    
+    
+}

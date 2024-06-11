@@ -1,0 +1,129 @@
+@media screen and (min-width : 577px) and (max-width : 992px) {
+
+    .header {
+        padding: 30px 50px;
+    }
+
+    /* navigation */
+    
+    .navigation{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .nav-title{
+        font-size: 35px;
+    }
+
+    .nav-item-container ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* banner */
+
+    .banner-container {
+        margin-top: 50px;
+    }
+
+    .banner-title{
+        font-size: 35px;
+    }
+
+    .banner-description {
+        font-size: 16px;
+    
+    }
+
+    main{
+        padding: 0 50px;
+    }
+
+    .line-break{
+        display: none;
+    }
+
+    /* quick list feature */
+
+    .quick-list-feature {
+        flex-direction: column;
+        padding: 0 50px;
+    }
+
+    
+    .feature-details {
+        text-align: center;
+    }
+    
+    .feature-title {
+        font-size: 35px;
+    }
+
+    /* enjoy features */
+
+    .enjoy-features {
+        flex-direction: column;
+        margin-top: 50px;
+        gap: 70px;
+     }
+ 
+     .feature-info {
+         padding-top: 0;
+       
+     }
+ 
+     .enjoy-feature-title {
+         font-size: 30px;
+         padding-left: 20px;
+     }
+
+ 
+     .feature-img {
+         position: static;
+         display: flex;
+         flex-direction: column;
+         gap: 50px;
+         max-width: 500px;
+         margin: 0 auto;
+     }
+ 
+     .advertisement {
+         position: static;
+         margin: 0 auto;
+     }
+ 
+     .time {
+         font-size: 40px;
+     }
+     
+     .experience {
+         font-size: 18px;
+     }
+
+     /* some facts */
+     
+
+     .some-facts{
+        padding-top: 70px;
+     }
+
+     .facts-description {
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+
+     .facts-container {
+
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+    
+    }
+
+/* our-sponsor */
+
+.sponsors-container img{
+    width: 80px;
+}
+ 
+
+}

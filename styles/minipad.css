@@ -106,6 +106,8 @@
 
     .some-facts {
         padding-top: 70px;
+        padding-left: 0;
+        padding-right: 0;
     }
 
     .facts-description {

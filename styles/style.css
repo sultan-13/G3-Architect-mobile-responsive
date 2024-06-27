@@ -287,8 +287,9 @@ main {
 
 .facts:hover{
     transform: scale(1.05);
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 2px 2px 5px gray;
 }
+
 
 
 .icon {

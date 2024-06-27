@@ -114,6 +114,8 @@
     .some-facts {
         padding-top: 70px;
         text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
     .facts-description {
